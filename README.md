@@ -6,8 +6,8 @@
 
 React is a JavaScript library for building user interfaces. It's used by companies like Facebook, Netflix, and Airbnb to create interactive web applications. In this skill tree, you'll learn how to use React to build modern web apps with ease.
 
-|   Index | Name                                          | Difficulty   | Tutorial                                                                                        |
-|---------|-----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------|
+|   Index | Name                                         | Difficulty   | Tutorial                                                                                       |
+|---------|----------------------------------------------|--------------|------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First React Lab                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-react-lab-92968)                       |
 |      02 | 📖 Creating and Nesting Components            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/creating-and-nesting-components-100371)           |
 |      03 | 📖 Writing Markup With JSX                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/writing-markup-with-jsx-100376)                   |
@@ -122,7 +122,8 @@ React is a JavaScript library for building user interfaces. It's used by compani
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
