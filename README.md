@@ -4,13 +4,13 @@
 <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
-React is a JavaScript library for building user interfaces. It's used by companies like Facebook, Netflix, and Airbnb to create interactive web applications. In this skill tree, you'll learn how to use React to build modern web apps with ease.
+React is a popular library for building user interfaces. This Skill Tree presents a systematic approach to learning React. Designed for web development beginners, it provides a structured roadmap to understand components, state management, and hooks. Hands-on, non-video courses and coding exercises in an interactive frontend playground ensure you develop practical skills in creating modern, responsive web applications with React.
 
 |   Index | Name                                                                                                                              | Difficulty   | Tutorial Link                                                                               |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------|
 |      01 | [📖 Your First React Lab](https://labex.io/tutorials/react-your-first-react-lab-92968)                                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-your-first-react-lab-92968)                       |
 |      02 | [📖 Creating and Nesting Components](https://labex.io/tutorials/react-creating-and-nesting-components-100371)                      | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-creating-and-nesting-components-100371)           |
-|      03 | [📖 Writing Markup With JSX](https://labex.io/tutorials/react-writing-markup-with-jsx-100376)                                      | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-writing-markup-with-jsx-100376)                   |
+|      03 | [📖 Writing Markup with JSX](https://labex.io/tutorials/react-writing-markup-with-jsx-100376)                                      | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-writing-markup-with-jsx-100376)                   |
 |      04 | [📖 Conditional Rendering in React](https://labex.io/tutorials/react-conditional-rendering-in-react-100370)                        | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-conditional-rendering-in-react-100370)            |
 |      05 | [📖 Rendering React Lists Introduction](https://labex.io/tutorials/react-rendering-react-lists-introduction-100372)                | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-rendering-react-lists-introduction-100372)        |
 |      06 | [📖 Responding to Events](https://labex.io/tutorials/react-responding-to-events-100373)                                            | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-responding-to-events-100373)                      |
@@ -48,8 +48,8 @@ React is a JavaScript library for building user interfaces. It's used by compani
 |      38 | [📖 React useClickOutside Hook](https://labex.io/tutorials/react-react-useclickoutside-hook-38373)                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-react-useclickoutside-hook-38373)                 |
 |      39 | [📖 Controlled Input Field](https://labex.io/tutorials/react-controlled-input-field-38345)                                         | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-controlled-input-field-38345)                     |
 |      40 | [📖 Lazy Loading Images in React](https://labex.io/tutorials/react-lazy-loading-images-in-react-38350)                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-lazy-loading-images-in-react-38350)               |
-|      41 | [📖 Textarea With Character Limit](https://labex.io/tutorials/react-textarea-with-character-limit-38351)                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-textarea-with-character-limit-38351)              |
-|      42 | [📖 Textarea With Word Limit](https://labex.io/tutorials/react-textarea-with-word-limit-38352)                                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-textarea-with-word-limit-38352)                   |
+|      41 | [📖 Textarea with Character Limit](https://labex.io/tutorials/react-textarea-with-character-limit-38351)                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-textarea-with-character-limit-38351)              |
+|      42 | [📖 Textarea with Word Limit](https://labex.io/tutorials/react-textarea-with-word-limit-38352)                                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-textarea-with-word-limit-38352)                   |
 |      43 | [📖 Creating Reusable Modal Component in React](https://labex.io/tutorials/react-creating-reusable-modal-component-in-react-38356) | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-creating-reusable-modal-component-in-react-38356) |
 |      44 | [📖 React useAsync Hook](https://labex.io/tutorials/react-react-useasync-hook-38370)                                               | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-react-useasync-hook-38370)                        |
 |      45 | [📖 React useComponentDidUpdate Hook](https://labex.io/tutorials/react-react-usecomponentdidupdate-hook-38375)                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-react-usecomponentdidupdate-hook-38375)           |
@@ -82,8 +82,8 @@ React is a JavaScript library for building user interfaces. It's used by compani
 |      72 | [📖 Creating Customizable React Tooltips](https://labex.io/tutorials/react-creating-customizable-react-tooltips-38367)             | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-creating-customizable-react-tooltips-38367)       |
 |      73 | [📖 React useNavigatorOnLine Hook](https://labex.io/tutorials/react-react-usenavigatoronline-hook-38398)                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-react-usenavigatoronline-hook-38398)              |
 |      74 | [📖 React useToggler Hook](https://labex.io/tutorials/react-react-usetoggler-hook-38413)                                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-react-usetoggler-hook-38413)                      |
-|      75 | [📖 Stateful Checkbox With Multiple Selection](https://labex.io/tutorials/react-stateful-checkbox-with-multiple-selection-38357)   | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-stateful-checkbox-with-multiple-selection-38357)  |
-|      76 | [📖 Button With Ripple Effect](https://labex.io/tutorials/react-button-with-ripple-effect-38359)                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-button-with-ripple-effect-38359)                  |
+|      75 | [📖 Stateful Checkbox with Multiple Selection](https://labex.io/tutorials/react-stateful-checkbox-with-multiple-selection-38357)   | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-stateful-checkbox-with-multiple-selection-38357)  |
+|      76 | [📖 Button with Ripple Effect](https://labex.io/tutorials/react-button-with-ripple-effect-38359)                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-button-with-ripple-effect-38359)                  |
 |      77 | [📖 React useBodyScrollLock Hook](https://labex.io/tutorials/react-react-usebodyscrolllock-hook-38371)                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-react-usebodyscrolllock-hook-38371)               |
 |      78 | [📖 React useMutationObserver Hook](https://labex.io/tutorials/react-react-usemutationobserver-hook-38397)                         | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-react-usemutationobserver-hook-38397)             |
 |      79 | [📖 React useDelayedState Hook](https://labex.io/tutorials/react-react-usedelayedstate-hook-38380)                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/react-react-usedelayedstate-hook-38380)                 |
@@ -97,15 +97,15 @@ React is a JavaScript library for building user interfaces. It's used by compani
 ## More Free Tutorials
 
 - [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
 - [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 - [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 - [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
