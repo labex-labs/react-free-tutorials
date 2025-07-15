@@ -1,4 +1,4 @@
-# React 免费教程实践
+# React 免费实践教程
 
 ## 支持语言
 
@@ -34,9 +34,9 @@ React 是一款知名的用户界面构建库。本技能树为你提供了系�
 |     20 | [📖 React useGetSet 钩子](https://labex.io/zh/tutorials/react-react-usegetset-hook-38386)                                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-usegetset-hook-38386)                       |
 |     21 | [📖 React useForm 钩子](https://labex.io/zh/tutorials/react-react-useform-hook-38385)                                        | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-useform-hook-38385)                         |
 |     22 | [📖 React 的 useFetch 钩子](https://labex.io/zh/tutorials/react-react-usefetch-hook-38384)                                   | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-usefetch-hook-38384)                        |
-|     23 | [📖 React useWindowSize 钩子](https://labex.io/zh/tutorials/react-react-usewindowsize-hook-38416)                            | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-usewindowsize-hook-38416)                   |
-|     24 | [📖 React useEventListener 钩子](https://labex.io/zh/tutorials/react-react-useeventlistener-hook-38383)                      | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-useeventlistener-hook-38383)                |
-|     25 | [📖 React useUpdate 钩子](https://labex.io/zh/tutorials/react-react-useupdate-hook-38415)                                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-useupdate-hook-38415)                       |
+|     23 | [📖 React useUpdate 钩子](https://labex.io/zh/tutorials/react-react-useupdate-hook-38415)                                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-useupdate-hook-38415)                       |
+|     24 | [📖 React useWindowSize 钩子](https://labex.io/zh/tutorials/react-react-usewindowsize-hook-38416)                            | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-usewindowsize-hook-38416)                   |
+|     25 | [📖 React useEventListener 钩子](https://labex.io/zh/tutorials/react-react-useeventlistener-hook-38383)                      | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-useeventlistener-hook-38383)                |
 |     26 | [📖 React useUnload 钩子](https://labex.io/zh/tutorials/react-react-useunload-hook-38414)                                    | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-useunload-hook-38414)                       |
 |     27 | [📖 React useToggler 钩子](https://labex.io/zh/tutorials/react-react-usetoggler-hook-38413)                                  | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-usetoggler-hook-38413)                      |
 |     28 | [📖 React 的 useTitle 钩子](https://labex.io/zh/tutorials/react-react-usetitle-hook-38412)                                   | 初级   | [🔗 View](https://labex.io/zh/tutorials/react-react-usetitle-hook-38412)                        |
